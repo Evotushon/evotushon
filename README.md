@@ -32,6 +32,7 @@ I am **really meticolous** about not sharing any personal information than the o
 - [A list of basically every programming language used by companies](https://en.wikipedia.org/wiki/List_of_programming_languages)
 - [A List of lists of basically every serious x\programming language](https://en.wikipedia.org/wiki/Lists_of_programming_languages)
 - [A **REALLY LONG** list of `Hello World` programs](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world) (even brainfuck)
+- [Same as before but github](https://github.com/leachim6/hello-world) (by [Leachim6](https://github.com/leachim6/)
 <!--
 **Evotushon/evotushon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
