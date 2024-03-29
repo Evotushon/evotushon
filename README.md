@@ -1,16 +1,14 @@
 ### Hi there 👋
 
 I'm **Evotushon**, but you can call me **Evo**.
-
-I'm an italian student who wants to get a job in Computer Science.
-
+Discord: @evotushon ~~Evotushon#1297~~
 ---
-# Languages List (and why)
+# Languages List
 ### Languages I program in ordered by how much I know them
   1. Python (with libraries too!)
   2. C# (basics)
 ### Languages I want to learn:
-  1. HTML, CSS (static web pages)
+  1. HTML, CSS (static web pages) `// Yes they're not languages I know`
   2. JS/TS
   3. SQL and dialects
   4. Go
@@ -25,19 +23,5 @@ I'm an italian student who wants to get a job in Computer Science.
 # Funny links for you
 - [A list of basically every programming language used by companies](https://en.wikipedia.org/wiki/List_of_programming_languages)
 - [A List of lists of basically every serious programming language](https://en.wikipedia.org/wiki/Lists_of_programming_languages)
-- [A **REALLY LONG** list of `Hello World` programs](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world) (even brainfuck)
+- [A **REALLY LONG** list of `Hello World` programs](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
 - [Same as before but github](https://github.com/leachim6/hello-world) (by [Leachim6](https://github.com/leachim6/))
-<!--
-**Evotushon/evotushon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
